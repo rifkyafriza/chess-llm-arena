@@ -1,0 +1,9 @@
+# Environment / Cache
+__pycache__/
+chess_env/
+ui_bot_vs_bot.html
+ui.html
+
+# IDE
+.vscode/
+.idea/
